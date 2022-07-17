@@ -12,6 +12,8 @@
 
 ## Work with images
 
+Чтобы загрузить иображение достаточно: ![Привет, воин!](Vikings.JPG)
+
 ## Links
 
 ## Work with tables
