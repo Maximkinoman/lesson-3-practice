@@ -6,5 +6,4 @@ This is a standard text
 **boldface text**
 
 *cursive*
-
-*some changes*
+# Some other changes #
