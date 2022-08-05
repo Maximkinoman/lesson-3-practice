@@ -19,3 +19,6 @@ This is a standard text
 * lane 2
 * lane 3
 >>>>>>> list
+
+## This is a viking
+![Vikings](Vikings.JPG)
