@@ -7,3 +7,9 @@ This is a standard text
 
 *cursive*
 # Some other changes #
+
+## List ##
+
+* list 3
+* list 4
+* list 5
