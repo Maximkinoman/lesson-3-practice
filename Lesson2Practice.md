@@ -40,3 +40,5 @@ This is a standard text
 ![Picture2](Picture2.JPG)
 
 # КОНЕЦ
+
+# END 2
