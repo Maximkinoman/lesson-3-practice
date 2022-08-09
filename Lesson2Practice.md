@@ -22,3 +22,9 @@ This is a standard text
 
 ## This is a viking
 ![Vikings](Vikings.JPG)
+
+# MEANWILE KEEPING WORK WITH HOMEWORK TO THE LESSON 3
+
+## Information about work in remote repo
+
+* 
