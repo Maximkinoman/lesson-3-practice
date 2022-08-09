@@ -46,3 +46,4 @@ This is a standard text
 =======
 # END 2 - try to do conflict on github
 
+![Коала](Коала.JPG)
