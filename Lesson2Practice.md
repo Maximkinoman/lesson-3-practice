@@ -41,8 +41,8 @@ This is a standard text
 
 # КОНЕЦ
 
-<<<<<<< HEAD
+
 # END 2 - try to test mergening for github
-=======
+
 # END 2 - try to do conflict on github
 
