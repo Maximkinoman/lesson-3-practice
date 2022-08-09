@@ -41,4 +41,4 @@ This is a standard text
 
 # КОНЕЦ
 
-# END 2
+# END 2 - try to do conflict on github
