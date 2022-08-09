@@ -45,4 +45,4 @@ This is a standard text
 # END 2 - try to test mergening for github
 =======
 # END 2 - try to do conflict on github
->>>>>>> c8356d787dbc7dc5c4ea17ab085bd26fd8863ed8
+
